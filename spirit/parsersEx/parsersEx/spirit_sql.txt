@@ -1,0 +1,7 @@
+author: <b>Andy Elvey</b><br>
+<i>andy-dot-elvey-at-paradise-dot-net-dot-nz</i>
+
+info: A little SQL parser for Spirit. Parses the "select" part
+of SQL grammar. 
+
+ 
