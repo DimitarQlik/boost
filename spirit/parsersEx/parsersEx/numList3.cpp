@@ -44,7 +44,7 @@ namespace client
 	         std::cout << "-------------------------\n";
 	      }
 	  }
-
+	  std::cout << "Bye... :-) \n\n";
 	  return true;
   }
 

@@ -38,6 +38,7 @@ namespace client
     	  }
       }
 
+	  std::cout << "Bye... :-) \n\n";
 	  return true;
     }
 }

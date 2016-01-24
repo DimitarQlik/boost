@@ -11,6 +11,7 @@ namespace client
    bool test_calc1(std::string filename)
    {
 
+	 std::cout << "Bye... :-) \n\n";
      return true;
    }
 }

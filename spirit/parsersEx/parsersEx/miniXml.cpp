@@ -73,7 +73,7 @@ namespace client
     		return false;
     	}
 
-
+		std::cout << "Bye... :-) \n\n";
     	return true;
     };
 }
